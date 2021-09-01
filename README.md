@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @longaadream
+- 👀 I’m interested in Minecraft,Raspberry Pi,C++ 
+- 🌱 I’m currently learning C++
